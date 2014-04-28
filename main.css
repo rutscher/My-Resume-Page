@@ -1,0 +1,25 @@
+body, html {
+
+	height: 100%;
+
+}
+
+
+#intro {
+	background-color: red;
+	height: 100%;
+
+
+
+
+}
+
+
+#education {
+	background-color: teal;
+	height: 100%;
+
+
+}
+
+body { padding-top: 50px; }
